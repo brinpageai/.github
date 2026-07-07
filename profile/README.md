@@ -1,11 +1,11 @@
 <h1 align="center">Brinpage</h1>
 
 <p align="center">
-  <strong>Infrastructure for building and running AI agents.</strong>
+  <strong>AI agents for architecture studios.</strong>
 </p>
 
 <p align="center">
-  Create agents, connect tools, manage context, and deploy across products through a single API.
+  Connect project data, documents, tools, and workflows so your studio can search, reason, and act through a single AI platform.
 </p>
 
 <p align="center">
@@ -17,38 +17,43 @@
 
 ### What is Brinpage?
 
-Brinpage is a cloud platform for building AI-powered systems using agents.
+Brinpage is a platform for building and running AI agents inside architecture studios.
 
-It provides a centralized control plane where you can:
+It gives teams a centralized place to create agents that understand their projects, documents, internal knowledge, and operational workflows.
 
-- Define AI agents with instructions and modular context  
-- Attach tools and external services  
-- Query databases and internal knowledge  
-- Route requests across different models  
-- Execute in real time  
-- Reuse the same agents across multiple surfaces (chatbots, internal tools, APIs)
+With Brinpage, studios can:
 
-Instead of wiring everything manually, Brinpage handles agent orchestration so teams can focus on building product logic.
+- Search across project archives, reports, specifications, technical documents, and internal knowledge
+- Ask questions about past projects, materials, surfaces, budgets, systems, and references
+- Monitor, classify, and evaluate architecture tenders, competitions, and public opportunities
+- Connect internal tools, databases, APIs, file systems, and external services
+- Build studio-specific AI agents with controlled context and clear instructions
+- Reuse the same agents across chat interfaces, internal tools, APIs, and custom workflows
+
+Instead of treating AI as a generic chatbot, Brinpage turns a studio’s own knowledge and processes into structured, reusable AI workflows.
 
 ---
 
 ### Core concepts
 
 - **Agents**  
-  Autonomous units with instructions, context, and tool access.
+  Studio-specific AI assistants with instructions, context, and access to selected tools.
 
-- **Context modules**  
-  Structured knowledge sources (databases, documents, files, APIs).
+- **Project context**  
+  Structured knowledge from projects, documents, reports, files, databases, and internal sources.
 
 - **Tools**  
-  External services or internal endpoints agents can call.
+  Internal systems, APIs, services, or custom endpoints that agents can use to retrieve information or execute workflows.
 
-- **Routing**  
-  Dynamic model selection and request handling.
+- **Tender intelligence**  
+  Agents that help monitor, filter, classify, and evaluate tenders, competitions, and public opportunities.
+
+- **Workflows**  
+  Repeatable AI-powered processes adapted to the way each architecture studio works.
 
 - **Surfaces**  
-  Deploy agents anywhere: chat interfaces, custom apps, backend services.
+  Deploy agents anywhere: internal chat, dashboards, project tools, backend services, or custom applications.
 
 ---
 
-Brinpage is designed as infrastructure: one platform to define behavior, connect data, and run AI across your products.
+Brinpage is designed as an AI layer for architecture studios: one platform to connect knowledge, define behavior, and run agents across studio data, tools, and workflows.
